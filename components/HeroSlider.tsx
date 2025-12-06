@@ -33,7 +33,7 @@ const SLIDE_INTERVAL = 8000;
 const slides: Slide[] = [
   {
     id: 'transition-energetique',
-    image: '/cam.jpg',
+    image: '/trenerg.jpeg',
     pretitle: 'Transition énergétique africaine',
     title: "Le futur des mines et de l'énergie commence au SEIMEN 2026",
     description:
@@ -49,7 +49,7 @@ const slides: Slide[] = [
   },
   {
     id: 'energie-renouvelable',
-    image: '/belle-centrale-d-energie-alternative-avec-panneaux-solaires.jpg',
+    image: '/WhatsApp%20Image%202025-11-24%20at%2016.59.29.jpeg',
     pretitle: 'Énergies renouvelables',
     title: "L'avenir énergétique durable de l'Afrique se construit ici",
     description:
@@ -65,7 +65,7 @@ const slides: Slide[] = [
   },
   {
     id: 'investissements-miniers',
-    image: '/tech.jpg',
+    image: '/pannelse.jpeg',
     pretitle: 'Investissements & souveraineté',
     title: 'Niamey accueille les leaders miniers et énergétiques du Sahel',
     description:
@@ -81,7 +81,7 @@ const slides: Slide[] = [
   },
   {
     id: 'centre-conference',
-    image: '/Centre-International-de-Conference-Mahatma-Gandhi-8.jpg',
+    image: '/prsiemen.png',
     pretitle: 'Centre International de Conférence',
     title: 'Un cadre exceptionnel pour des échanges de haut niveau',
     description:

@@ -201,7 +201,7 @@ export default function Home() {
               <div className="card h-100">
                 <div className="category-image-wrapper">
                   <Image
-                    src="/smiley-homme-travaillant-sur-un-projet.jpg"
+                    src="/delegue.jpeg"
                     alt="Délégués Généraux"
                     width={400}
                     height={280}
@@ -229,7 +229,7 @@ export default function Home() {
               <div className="card h-100">
                 <div className="category-image-wrapper">
                   <Image
-                    src="/gros-camion-transportant-du-sable-sur-un-site-minier-de-platine-en-afrique.jpg"
+                    src="/societe.jpeg"
                     alt="Sociétés Minières"
                     width={400}
                     height={280}
@@ -257,7 +257,7 @@ export default function Home() {
               <div className="card h-100">
                 <div className="category-image-wrapper">
                   <Image
-                    src="/vue-avant-des-pieces-empilees-avec-de-la-salete-et-des-plantes.jpg"
+                    src="/investisseur.jpeg"
                     alt="Investisseurs & Acheteurs"
                     width={400}
                     height={280}
